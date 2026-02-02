@@ -1,0 +1,5 @@
+body { background: #111; color: #fff; font-family: sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; }
+.card { background: #222; padding: 20px; border-radius: 10px; text-align: center; }
+.bar { background: #444; height: 15px; border-radius: 10px; margin-top: 10px; overflow: hidden; }
+#fill { height: 100%; width: 0; background: #0f0; transition: width 1s; }
+.hidden { display: none; }
